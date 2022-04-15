@@ -1,0 +1,288 @@
+[[gflags]]
+arch = "aarch64"
+git-tree-sha1 = "aae7d63f208e5ec2e627c0d407d1634218a3a658"
+os = "macos"
+
+    [[gflags.download]]
+    sha256 = "894aecfa079c72e564efa58d2e5672a6bcd3ffe7784a76684b5588c12cb7c745"
+    url = "https://github.com/JuliaBinaryWrappers/gflags_jll.jl/releases/download/gflags-v2.2.2+0/gflags.v2.2.2.aarch64-apple-darwin.tar.gz"
+[[gflags]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "058da44a2147264e550843e0c950c1ebc2c1e62d"
+libc = "glibc"
+os = "linux"
+
+    [[gflags.download]]
+    sha256 = "b654e3e28f1eeda5a0046eeea53715899ab0d2e31bffc70939d323fbe76dc318"
+    url = "https://github.com/JuliaBinaryWrappers/gflags_jll.jl/releases/download/gflags-v2.2.2+0/gflags.v2.2.2.aarch64-linux-gnu-cxx03.tar.gz"
+[[gflags]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f2f8d9274e6d49471ba060d6756f9bd011a0c8fc"
+libc = "glibc"
+os = "linux"
+
+    [[gflags.download]]
+    sha256 = "a5ab2b3a6b88007d29926b1dfddc884b9d11b00b0844730570ad3b47cc45c156"
+    url = "https://github.com/JuliaBinaryWrappers/gflags_jll.jl/releases/download/gflags-v2.2.2+0/gflags.v2.2.2.aarch64-linux-gnu-cxx11.tar.gz"
+[[gflags]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "0c16c1a96c3d1a950376f41433a722902842cc50"
+libc = "musl"
+os = "linux"
+
+    [[gflags.download]]
+    sha256 = "ef44a3a5881c1e97b7f8c1ab9360157e81e55e2ee6a5d9b9ae6d4449cb7ef0fa"
+    url = "https://github.com/JuliaBinaryWrappers/gflags_jll.jl/releases/download/gflags-v2.2.2+0/gflags.v2.2.2.aarch64-linux-musl-cxx03.tar.gz"
+[[gflags]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a213ec56c58327a607d3d8a556bfcb0d7089858b"
+libc = "musl"
+os = "linux"
+
+    [[gflags.download]]
+    sha256 = "9cc55b6c2508f1338cbe3d323adce90463955b50040405209dca07dc700cb3bb"
+    url = "https://github.com/JuliaBinaryWrappers/gflags_jll.jl/releases/download/gflags-v2.2.2+0/gflags.v2.2.2.aarch64-linux-musl-cxx11.tar.gz"
+[[gflags]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d0483f79f9b8383bd7324f32f0036702f161831e"
+libc = "glibc"
+os = "linux"
+
+    [[gflags.download]]
+    sha256 = "018ab44b378f12561b4565fb9fd971324be5099da36dae9d3d267c515de0b98f"
+    url = "https://github.com/JuliaBinaryWrappers/gflags_jll.jl/releases/download/gflags-v2.2.2+0/gflags.v2.2.2.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[gflags]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "84e0a0e20467d41ed7b010043484747b844edb27"
+libc = "glibc"
+os = "linux"
+
+    [[gflags.download]]
+    sha256 = "daf8f6536c6a17667cd2e4c8df90496ce0ee62dd7678ba0beb1e5f515b4bf8e7"
+    url = "https://github.com/JuliaBinaryWrappers/gflags_jll.jl/releases/download/gflags-v2.2.2+0/gflags.v2.2.2.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[gflags]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "29175d7c8e804ec643202573c429d42fc3c52ddc"
+libc = "musl"
+os = "linux"
+
+    [[gflags.download]]
+    sha256 = "d325de1f2a74a1c7d367f947a184465d9068f84e66c60711f12c00a424cc3bd5"
+    url = "https://github.com/JuliaBinaryWrappers/gflags_jll.jl/releases/download/gflags-v2.2.2+0/gflags.v2.2.2.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[gflags]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c397b7b288290cd290d801feb48957283397a7bc"
+libc = "musl"
+os = "linux"
+
+    [[gflags.download]]
+    sha256 = "59f7eeba8a8c11d2b872a18156ad4d232bddaa379247e49b1741fac28afe7756"
+    url = "https://github.com/JuliaBinaryWrappers/gflags_jll.jl/releases/download/gflags-v2.2.2+0/gflags.v2.2.2.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[gflags]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "10c9b50a4acec121ed07313dd5821d887d1b18aa"
+libc = "glibc"
+os = "linux"
+
+    [[gflags.download]]
+    sha256 = "ad10b21fdb55c53c318f4850d362485585a14e2b2185feb9e6a66d6613b6d681"
+    url = "https://github.com/JuliaBinaryWrappers/gflags_jll.jl/releases/download/gflags-v2.2.2+0/gflags.v2.2.2.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[gflags]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6c999750e1c36ab799e84aa7570d4ebe35d25382"
+libc = "glibc"
+os = "linux"
+
+    [[gflags.download]]
+    sha256 = "93ade49f593cc40b7320d480597751181d1c5b5443df9b5bce6078a72bca457d"
+    url = "https://github.com/JuliaBinaryWrappers/gflags_jll.jl/releases/download/gflags-v2.2.2+0/gflags.v2.2.2.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[gflags]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b2e8b4b40262f217d8ba1ac40fdb491177d26014"
+libc = "musl"
+os = "linux"
+
+    [[gflags.download]]
+    sha256 = "63f90beb9e4be417080017982da494c4371638e8d1e6bc1d3e105c6b26dcbd01"
+    url = "https://github.com/JuliaBinaryWrappers/gflags_jll.jl/releases/download/gflags-v2.2.2+0/gflags.v2.2.2.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[gflags]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "70805029dc89fca42fa0cb2d631e60bbaa0139e4"
+libc = "musl"
+os = "linux"
+
+    [[gflags.download]]
+    sha256 = "8b9a6cf4bcdce7ad28f85eaec7a7411502a026df89258ffdb8b1fe78f76f64c1"
+    url = "https://github.com/JuliaBinaryWrappers/gflags_jll.jl/releases/download/gflags-v2.2.2+0/gflags.v2.2.2.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[gflags]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "949c5ec3c7defcee5722febc53c02f12315de008"
+libc = "glibc"
+os = "linux"
+
+    [[gflags.download]]
+    sha256 = "2b6e28182124196087566376f488edd3897733ae375158813c7410973ff5a692"
+    url = "https://github.com/JuliaBinaryWrappers/gflags_jll.jl/releases/download/gflags-v2.2.2+0/gflags.v2.2.2.i686-linux-gnu-cxx03.tar.gz"
+[[gflags]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d1953833d08bc24bd11c5fefbd823714ff53fb06"
+libc = "glibc"
+os = "linux"
+
+    [[gflags.download]]
+    sha256 = "ea67f02f55ecda3e97b3b3f875e9d1be557ee4653e0fb197bab822ca53b336d9"
+    url = "https://github.com/JuliaBinaryWrappers/gflags_jll.jl/releases/download/gflags-v2.2.2+0/gflags.v2.2.2.i686-linux-gnu-cxx11.tar.gz"
+[[gflags]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1d56906257fd0ab7ef3338cdeb9fa044536d98fc"
+libc = "musl"
+os = "linux"
+
+    [[gflags.download]]
+    sha256 = "b2687a4f8cdb4a11925de16da131838239761342180dfb70bf88585a97996454"
+    url = "https://github.com/JuliaBinaryWrappers/gflags_jll.jl/releases/download/gflags-v2.2.2+0/gflags.v2.2.2.i686-linux-musl-cxx03.tar.gz"
+[[gflags]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9660431f4a6a487c9d46cffd45cf57776da18a1e"
+libc = "musl"
+os = "linux"
+
+    [[gflags.download]]
+    sha256 = "f6d1d8becf3f9f01a39309379987e3dacc8533a621cee29852b6e90307ce2536"
+    url = "https://github.com/JuliaBinaryWrappers/gflags_jll.jl/releases/download/gflags-v2.2.2+0/gflags.v2.2.2.i686-linux-musl-cxx11.tar.gz"
+[[gflags]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9b0ed22b7e480974d3ea43245644cdcfc0a585af"
+os = "windows"
+
+    [[gflags.download]]
+    sha256 = "bfba0d603384fd44f09c68fe9c1c6a2a80ef390584614676c7b99fd3aae3c614"
+    url = "https://github.com/JuliaBinaryWrappers/gflags_jll.jl/releases/download/gflags-v2.2.2+0/gflags.v2.2.2.i686-w64-mingw32-cxx03.tar.gz"
+[[gflags]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "56a2aa8689cd4b482bb7edf0f2ac3f427dd35a91"
+os = "windows"
+
+    [[gflags.download]]
+    sha256 = "58ee1665a1029727a8d79e1b1bf88101465ecc4d7553d2f9c93fccbad85aa293"
+    url = "https://github.com/JuliaBinaryWrappers/gflags_jll.jl/releases/download/gflags-v2.2.2+0/gflags.v2.2.2.i686-w64-mingw32-cxx11.tar.gz"
+[[gflags]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1762dbb94132d9d0540d7cd11ca95dece2c1df9a"
+libc = "glibc"
+os = "linux"
+
+    [[gflags.download]]
+    sha256 = "cde27e5e42cd802a1844c5f0cc8c5074eacd79bcc9adabdbc72b98f2028aad0f"
+    url = "https://github.com/JuliaBinaryWrappers/gflags_jll.jl/releases/download/gflags-v2.2.2+0/gflags.v2.2.2.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[gflags]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "01624eaf307c9f425b51b6977c31b71fdb8d4517"
+libc = "glibc"
+os = "linux"
+
+    [[gflags.download]]
+    sha256 = "0e64229be3444380ec62e2caf38a1d4083e161e13f984fb4c43146816dab7120"
+    url = "https://github.com/JuliaBinaryWrappers/gflags_jll.jl/releases/download/gflags-v2.2.2+0/gflags.v2.2.2.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[gflags]]
+arch = "x86_64"
+git-tree-sha1 = "b33714e6ed03d65a5fbdcdafc047e201ac89251b"
+os = "macos"
+
+    [[gflags.download]]
+    sha256 = "d4f09bca95edadac840853fcd11a479ef0916b3bea42a3ba6d21c7dd3faf1ed8"
+    url = "https://github.com/JuliaBinaryWrappers/gflags_jll.jl/releases/download/gflags-v2.2.2+0/gflags.v2.2.2.x86_64-apple-darwin.tar.gz"
+[[gflags]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "09cc1c38fc81b017b39ee3cf134bfebc78368783"
+libc = "glibc"
+os = "linux"
+
+    [[gflags.download]]
+    sha256 = "c552cfa0cb7f3a86835b34c80f1f76ff4e7796f253ec19b2640cb876cd43977c"
+    url = "https://github.com/JuliaBinaryWrappers/gflags_jll.jl/releases/download/gflags-v2.2.2+0/gflags.v2.2.2.x86_64-linux-gnu-cxx03.tar.gz"
+[[gflags]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "749ab0d739556243862fe8987ba288d94c585ab0"
+libc = "glibc"
+os = "linux"
+
+    [[gflags.download]]
+    sha256 = "abba2b0b4bf9349735c110012535665d60164153e181086fb1149787e8d907f7"
+    url = "https://github.com/JuliaBinaryWrappers/gflags_jll.jl/releases/download/gflags-v2.2.2+0/gflags.v2.2.2.x86_64-linux-gnu-cxx11.tar.gz"
+[[gflags]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a9d2a5a4a89ca1c963bebbe034f142d3ead1008e"
+libc = "musl"
+os = "linux"
+
+    [[gflags.download]]
+    sha256 = "c985303ef3f76e098172424131f8f3c67b39111cd9d23bae70508e6e2cb7a535"
+    url = "https://github.com/JuliaBinaryWrappers/gflags_jll.jl/releases/download/gflags-v2.2.2+0/gflags.v2.2.2.x86_64-linux-musl-cxx03.tar.gz"
+[[gflags]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "acb64078b81c7146b731497ef80eb8237aa8ade9"
+libc = "musl"
+os = "linux"
+
+    [[gflags.download]]
+    sha256 = "83c998536783528a0b3bb5b311e83b90ebea7643e936eafd8086439fdde480a4"
+    url = "https://github.com/JuliaBinaryWrappers/gflags_jll.jl/releases/download/gflags-v2.2.2+0/gflags.v2.2.2.x86_64-linux-musl-cxx11.tar.gz"
+[[gflags]]
+arch = "x86_64"
+git-tree-sha1 = "29228036c7dc0e8e371d7def144f4774e745c602"
+os = "freebsd"
+
+    [[gflags.download]]
+    sha256 = "d6018b148ee35a39b2ea047f23b0a4eb2f8fb4b6e3aace20d2cd533e60f689a3"
+    url = "https://github.com/JuliaBinaryWrappers/gflags_jll.jl/releases/download/gflags-v2.2.2+0/gflags.v2.2.2.x86_64-unknown-freebsd.tar.gz"
+[[gflags]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "058f2a567871c808e2104a614039b086e73508de"
+os = "windows"
+
+    [[gflags.download]]
+    sha256 = "d528eb736f73b4a54441b1c0b8df5cd989f7c511560242149544e5f1aa927b39"
+    url = "https://github.com/JuliaBinaryWrappers/gflags_jll.jl/releases/download/gflags-v2.2.2+0/gflags.v2.2.2.x86_64-w64-mingw32-cxx03.tar.gz"
+[[gflags]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "722183e8ef46574583372ed160bc22eeea572a5d"
+os = "windows"
+
+    [[gflags.download]]
+    sha256 = "0f85dd2e87007f2e821c280aea57ba2355304be9a79de962a6015925126a0c42"
+    url = "https://github.com/JuliaBinaryWrappers/gflags_jll.jl/releases/download/gflags-v2.2.2+0/gflags.v2.2.2.x86_64-w64-mingw32-cxx11.tar.gz"
